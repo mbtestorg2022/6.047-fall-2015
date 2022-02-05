@@ -21,16 +21,141 @@ Contents
 
 The final project is divided into several milestones due over the course of the semester. The first two milestones will get you thinking about problems you are interested in and classmates you may want to collaborate with. The first milestone is included in the problem sets; however, the subsequent milestones are separate assignments. This overview lists some resources for finding project topics and outlines the criteria that will be used to evaluate your project.
 
-| {{< anchor "miles" >}}{{< /anchor >}}MILESTONES | DUE DATES |
-| --- | --- |
-|  {{< br >}}{{< br >}} **Project Profile** {{< br >}}{{< br >}} Describe your previous research, areas of interest in computational biology, type of project that best fits your interests. Post in a profile that lets your classmates know you and find potential partners. {{< br >}}{{< br >}}  | Lecture 6 |
-|  {{< br >}}{{< br >}} **Literature Search and Pre-Proposal** {{< br >}}{{< br >}} Identify previous project proposals, recent papers, and potential partners that match your areas of interest. List initial project ideas and partners. {{< br >}}{{< br >}}  | Lecture 8 |
-|  {{< br >}}{{< br >}} **Formal Proposal** {{< br >}}{{< br >}} Form teams of two, specify project goals, division of work, milestones, datasets, challenges. Prepare slide presentation for the class and the mentors. {{< br >}}{{< br >}}  | Recitation 6 |
-|  {{< br >}}{{< br >}} **Peer Review** {{< br >}}{{< br >}} Evaluate / discuss three peer proposals, NIH review format. {{< br >}}{{< br >}}  | Recitation 7 |
-|  {{< br >}}{{< br >}} **Review Response** {{< br >}}{{< br >}} Address peer evaluations, revise aims, scope, list of final deliverables / goals. {{< br >}}{{< br >}}  | Lecture 17 |
-|  {{< br >}}{{< br >}} **Midterm Progress Report** {{< br >}}{{< br >}} Continue making substantial progress on proposed milestones. Write outline of final report. {{< br >}}{{< br >}}  | Quiz date |
-|  {{< br >}}{{< br >}} **Final Report** {{< br >}}{{< br >}} Complete your milestones, finalize results, figures, write-up in conference publication format. As part of report, comment on your overall project experience. {{< br >}}{{< br >}}  | Recitation 11 |
-|  {{< br >}}{{< br >}} **Project Presentations** {{< br >}}{{< br >}} Conference format slide presentation {{< br >}}{{< br >}}  | Final presentation dates 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+{{< anchor "miles" >}}{{< /anchor >}}MILESTONES
+{{< thclose >}}
+{{< thopen >}}
+DUE DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Project Profile**
+
+Describe your previous research, areas of interest in computational biology, type of project that best fits your interests. Post in a profile that lets your classmates know you and find potential partners.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Literature Search and Pre-Proposal**
+
+Identify previous project proposals, recent papers, and potential partners that match your areas of interest. List initial project ideas and partners.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Formal Proposal**
+
+Form teams of two, specify project goals, division of work, milestones, datasets, challenges. Prepare slide presentation for the class and the mentors.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Peer Review**
+
+Evaluate / discuss three peer proposals, NIH review format.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Review Response**
+
+Address peer evaluations, revise aims, scope, list of final deliverables / goals.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 17
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Midterm Progress Report**
+
+Continue making substantial progress on proposed milestones. Write outline of final report.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz date
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Final Report**
+
+Complete your milestones, finalize results, figures, write-up in conference publication format. As part of report, comment on your overall project experience.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Project Presentations**
+
+Conference format slide presentation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Final presentation dates
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Proposal_Guidelines" >}}{{< /anchor >}}Proposal Guidelines
 ----------------------------------------------------------------------
