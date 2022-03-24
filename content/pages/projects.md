@@ -164,7 +164,7 @@ Write an National Institutes of Health (NIH) research proposal for your project 
 
 [Restructured Application Forms and Instructions for Submissions for Funding](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-09-149.html)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Details of Application Changes for Research Grants and Cooperative Agreements (PDF)](http://enhancing-peer-review.nih.gov/docs/application_changes.pdf)
+[Details of Application Changes for Research Grants and Cooperative Agreements (PDF)](http://enhancing-peer-review.nih.gov/docs/application_changes.pdf)
 
 In the resources section, be sure to discuss what datasets you are going to use (and how you are going to gain access to them if they are not public), what computational resources you will use (especially for computationally intensive projects), and who you plan to ask for advice (mentors from the the instructor's lab, other faculty, etc.). Also be sure to identify relevant course lectures to help us (and your peers) evaluate the relevance of your project.
 
